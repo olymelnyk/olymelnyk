@@ -1,4 +1,13 @@
 ## Hi there 👋
+My name is Olga and I use AI to bridge the gap between design and code. Here are my latest functional prototypes:
+
+| Project | Live Demo |Description|
+| :--- | :--- | :--- |
+| **Customer Journey Map** | [🌐 CJM Weaver]((https://cjm-weaver.lovable.app)) | Automatic CJM concept |
+| **Design Zen** | [🌐 Design Zen](https://flash-design-zen.lovable.app) | Digital Design Principles cheat sheet |
+| **Meridian Design System** | [🌐 Meridian Design System](https://meridian-design-system.lovable.app) | Vibe-coded design system documentation |
+| **Invest IQ** | [🌐 Invest IQ](https://invest-spark-grow.lovable.app) | Educational platform on investing |
+
 
 <!--
 **olymelnyk/olymelnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

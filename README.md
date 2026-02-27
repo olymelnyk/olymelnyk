@@ -1,5 +1,13 @@
 ## Hi there 👋
-My name is Olga and I use AI to bridge the gap between design and code. Here are my latest functional prototypes:
+I'm Olga, a Product Designer with a background in product management and data-intensive B2B intelligence products. Over 13 years in tech, I've worked across enterprises and startups, designing both customer-facing and internal solutions that improved usability and operational efficiency.
+
+I help organisations bring clarity to complexity by uncovering real needs and visualising ideas through structure, form, and interaction, turning strategy into experiences people understand and enjoy.
+
+I work across the full product lifecycle, from discovery and research to prototyping, testing, and delivery, ensuring every design decision is both user-centred and business-aligned.
+
+Some of my design projects can be found [🌐 here](https://dribbble.com/olgamelnyk).
+
+I also use AI to bridge the gap between design and code. Here are my latest functional prototypes:
 
 | Project | Live Demo |Description|
 | :--- | :--- | :--- |

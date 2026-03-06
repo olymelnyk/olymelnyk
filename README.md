@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Olga, an end-to-end Product Designer with 13+ years across enterprise and startup environments, specialising in turning complex, data-heavy workflows into clear, trustworthy user experiences. 
-[🌐 Portfolio]([https://olgamelnyk.com/]).
+[🌐 Portfolio](https://olgamelnyk.com/).
 
 I use AI to bridge the gap between design and code. Here are some of my experiments:
 

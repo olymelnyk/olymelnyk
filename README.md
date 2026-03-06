@@ -1,13 +1,9 @@
 ## Hi there 👋
-I'm Olga, a Product Designer with a background in product management and data-intensive B2B intelligence products. Over 13 years in tech, I've worked across enterprises and startups, designing both customer-facing and internal solutions that improved usability and operational efficiency.
 
-I help organisations bring clarity to complexity by uncovering real needs and visualising ideas through structure, form, and interaction, turning strategy into experiences people understand and enjoy.
+I'm Olga, an end-to-end Product Designer with 13+ years across enterprise and startup environments, specialising in turning complex, data-heavy workflows into clear, trustworthy user experiences. 
+[🌐 Portfolio]([https://olgamelnyk.com/]).
 
-I work across the full product lifecycle, from discovery and research to prototyping, testing, and delivery, ensuring every design decision is both user-centred and business-aligned.
-
-Some of my design projects can be found [🌐 here](https://dribbble.com/olgamelnyk).
-
-I also use AI to bridge the gap between design and code. Here are my latest functional prototypes:
+I use AI to bridge the gap between design and code. Here are some of my experiments:
 
 | Project | Live Demo |Description|
 | :--- | :--- | :--- |
@@ -15,6 +11,7 @@ I also use AI to bridge the gap between design and code. Here are my latest func
 | **Design Zen** | [🌐 Design Zen](https://flash-design-zen.lovable.app) | Digital Design Principles cheat sheet. Select cards to see design principles and their description. |
 | **Meridian Design System** | [🌐 Meridian Design System](https://meridian-design-system.lovable.app) | Vibe-coded design system documentation. Testing how effective vibe-coding can be at creating design system documentation. |
 | **Invest IQ** | [🌐 Invest IQ](https://invest-spark-grow.lovable.app) | Educational platform on investing. Testing how effective AI can be at structuring knowledge and presenting it in interactive format. |
+
 
 
 <!--

@@ -8,7 +8,7 @@ I use AI to bridge the gap between design and code. Here are some of my experime
 
 | Project | Live Demo |Description|
 | :--- | :--- | :--- |
-| **Customer Journey Map** | [🌐 Journey Weaver]([https://feedback-trail-weaver.lovable.app/]) | Automatic CJM concept. The idea is that once product team connects customers' feedback and research raw files as CJM's data sources, it automatically generates actual CJM with identified pain points and opportunities for improvement. **Interaction:** *Select touchpoints to see user pain points and opportunities. Scroll left-right to see all stages of the journey*.|
+| **Customer Journey Map** | [🌐 Journey Weaver](https://feedback-trail-weaver.lovable.app/)| Automatic CJM concept. Once the product team connects customer feedback and research sources, it automatically generates a CJM with identified pain points and improvement opportunities, which the product team can turn into actions to execute.|
 
 
 
